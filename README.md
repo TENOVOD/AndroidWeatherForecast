@@ -20,7 +20,9 @@ https://openweathermap.org/api
 
 ![зображення](https://github.com/TENOVOD/AndroidWeatherForecast/assets/57965389/6c78ba2a-b872-45b9-a350-c5fd5637650d)
 
-## Weather in Mykolaiv 
+## Weather in Mykolaiv by GPS
+![зображення](https://github.com/TENOVOD/AndroidWeatherForecast/assets/57965389/0026326d-ec57-429d-bff0-d18a1188f8d4)
+
 ![зображення](https://github.com/TENOVOD/AndroidWeatherForecast/assets/57965389/361c6945-b635-497e-a3ce-e72a581d4e6f)
 
 
