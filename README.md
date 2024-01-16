@@ -9,7 +9,7 @@ https://openweathermap.org/api
 ##Forecast by GPS Coordinates;
 ![зображення](https://github.com/TENOVOD/AndroidWeatherForecast/assets/57965389/335e44dd-c67f-411e-a7c9-360e4fe53aef)
 
-Search city
+##Search city
 ![зображення](https://github.com/TENOVOD/AndroidWeatherForecast/assets/57965389/229af50f-cbbe-4bea-9b8b-8e6856ab1e01)
 
 ![зображення](https://github.com/TENOVOD/AndroidWeatherForecast/assets/57965389/6e71d48f-df11-4c5c-bfb1-3853eadaa89a)
